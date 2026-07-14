@@ -61,43 +61,7 @@
 
 ---
 
-### 🏰 Featured Builds
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 WhatsApp Bot System</h4>
-      <p>An automation bot for LPK Kizuna Mitra. Features include auto-reply, admin handoff, human-like typing simulation, and automatic report generation (Word/Excel/PDF).</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💰 DompetKu</h4>
-      <p>A multi-user personal finance application developed in two architectures for maximum flexibility: <b>PHP/MySQL</b> and <b>Node.js/Express/JWT</b>.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ Security Audit (kizuna.id)</h4>
-      <p>Conducted a thorough web system security audit, including protection against CSRF, hiding critical contact exposure, and implementing strict CSP headers.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌲 Portfolio Website</h4>
-      <p>An interactive portfolio with a dark forest/biome theme. Features scroll-triggered effects, block/grid-style navigation transitions, and animated ring status visuals.</p>
-    </td>
-  </tr>
-</table>
-
-
-
-### 🤝 Contact Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NandaSukaRaiden)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628XXXXXXXXXX)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-
-</div>
 
 
 
