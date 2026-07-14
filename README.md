@@ -12,8 +12,8 @@
       </td>
       <td valign="middle">
         <h3>✨ Hello & Welcome!</h3>
-        <p><i>"Code is like electricity — keep it flowing, keep it secure, and build beautiful connections."</i> ⚡</p>
-        <p>I am a <b>Technical Support, Network Engineer, and Programmer</b> based in Semarang, Indonesia. I focus on building dynamic websites, system automation (bots), and optimizing network infrastructure.</p>
+        <p><i>"Create code to make imagine come true, and build beautiful connections."</i> ⚡</p>
+        <p>I am a <b>Technical Support, Network Engineer, and Programmer</b> I focus on building dynamic websites, system automation (bots), and optimizing network infrastructure.</p>
       </td>
     </tr>
   </table>
@@ -21,23 +21,23 @@
 
 ---
 
-### 📂 About Me (Spawn Info)
+### 📂 About Me 
 
 <div align="center">
   <img align="right" src="./lightning-removebg-preview.png" width="160" alt="Raiden Sticker" />
 </div>
 
-* 💼 **Main Job:** Technical Support & Programmer at **LPK Kizuna Mitra Indonesia**.
-* 🛡️ **Expertise:** Web Security Audit, Network Engineering, & Automation Bots.
-* 🎓 **Community:** Member of **IMPHNEN Developer Community**.
-* 🚀 **Interests:** Web Development, Automation, Networking, Bitcoin Trading, and Songwriting.
-* ⛏️ **Motto:** *"Ship it, break it, mine it, craft it again."*
+*  **Main Job:** Technical Support & Programmer.
+*  **Expertise:** Web Security Audit, Network Engineering, & Automation Bots.
+*  **Community:** Member of **IMPHNEN Developer Community**.
+*  **Interests:** Web Development, Automation, Networking, Bitcoin Trading, and Songwriting.
+*  **Motto:** *"Create imagine come true."*
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Stack
 
 <div align="center">
   
@@ -66,5 +66,5 @@
 
 
 <div align="center">
-  <sub>⛏️ Keep mining, keep committing — thank you for visiting! ⛏️</sub>
+  <sub>Made with :sparkling_heart:</sub>
 </div>
