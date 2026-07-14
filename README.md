@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="./assets/raiden-curious.jpg" width="150" alt="Raiden sticker" />
+  <img src="lightning-removebg-preview.png" width="150" alt="Raiden sticker" />
 </div>
 
 <div align="center">
