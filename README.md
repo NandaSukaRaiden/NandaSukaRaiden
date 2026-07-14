@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=220&section=header&text=Eternity%20in%20Code&fontSize=38&fontColor=E8D9FF&animation=fadeIn&fontAlignY=32&desc=Nanda%20Ahmad%20Yusuf%20%E2%80%A2%20Semarang%2C%20Indonesia&descAlignY=52&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=220&section=header&text=Eternity%20in%20Blocks&fontSize=38&fontColor=DFFFD6&animation=fadeIn&fontAlignY=32&desc=Nanda%20Ahmad%20Yusuf%20%E2%80%A2%20Semarang%2C%20Indonesia&descAlignY=52&descSize=17" />
 </p>
 
 <div align="center">
@@ -8,19 +8,19 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Halo%2C+aku+Nanda+%E2%9A%A1;Full-Stack+Dev+%7C+Network+Engineer;Automation+%26+Bot+Builder+%F0%9F%A4%96;Eternity%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Minecraft&weight=600&size=26&duration=3000&pause=1000&color=55FF55&center=true&vCenter=true&width=650&lines=Halo%2C+aku+Nanda+%E2%9B%8F%EF%B8%8F;Full-Stack+Dev+%7C+Network+Engineer;Automation+%26+Bot+Builder+%F0%9F%A4%96;Mining+code%2C+one+block+at+a+time" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-> *"Kekekalan bukan berarti tanpa perubahan — ia adalah perubahan yang diabadikan lewat baris kode."* ⚡🟣
+> *"Setiap dunia butuh crafting table — dan codebase ini adalah dunia yang terus aku bangun blok demi blok."* ⛏️🟩
 
 </div>
 
 ---
 
-### 🌌 Tentang Aku
+### 🌳 Tentang Aku (Spawn Info)
 
 <table>
 <tr>
@@ -33,7 +33,7 @@ peran: Technical Support • Network Engineer • Programmer
 afiliasi: LPK Kizuna Mitra Indonesia
 komunitas: IMPHNEN Developer Community
 minat: Web Dev • Automation • Networking • Bitcoin Trading • Songwriting
-motto: "Ship it, break it, fix it, repeat."
+motto: "Ship it, break it, mine it, craft it again."
 ```
 
 </td>
@@ -45,24 +45,24 @@ motto: "Ship it, break it, fix it, repeat."
 
 ---
 
-### ⚔️ Tech Arsenal
+### ⛏️ Inventory (Tech Arsenal)
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=E8D9FF)
-![Node.js](https://img.shields.io/badge/Node.js-2E1A47?style=for-the-badge&logo=nodedotjs&logoColor=B388FF)
-![React](https://img.shields.io/badge/React-1A1030?style=for-the-badge&logo=react&logoColor=B388FF)
-![PHP](https://img.shields.io/badge/PHP-3A1E5D?style=for-the-badge&logo=php&logoColor=E8D9FF)
-![Python](https://img.shields.io/badge/Python-2D1B4E?style=for-the-badge&logo=python&logoColor=E8D9FF)
-![MySQL](https://img.shields.io/badge/MySQL-3E2569?style=for-the-badge&logo=mysql&logoColor=E8D9FF)
-![Express](https://img.shields.io/badge/Express.js-1A0F2E?style=for-the-badge&logo=express&logoColor=B388FF)
-![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-3B1E5F?style=for-the-badge&logo=whatsapp&logoColor=E8D9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222222)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </div>
 
 ---
 
-### 🏯 Featured Quests (Projects)
+### 🏰 Featured Builds (Projects)
 
 <table align="center">
 <tr>
@@ -88,8 +88,8 @@ Audit keamanan website: CSRF protection, eksposur kontak, dan CSP headers.
 </td>
 <td width="50%">
 
-**🌌 Portfolio Website**
-Dark space aesthetic terinspirasi Genshin Impact — animated stat rings, celestial warp scroll, dan efek scroll-triggered.
+**🌲 Portfolio Website**
+Dark forest/biome aesthetic — animated stat rings, block-style scroll transitions, dan efek scroll-triggered.
 
 </td>
 </tr>
@@ -97,28 +97,28 @@ Dark space aesthetic terinspirasi Genshin Impact — animated stat rings, celest
 
 ---
 
-### 📊 Stats Ring
+### 📊 XP Bar (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=140a24&title_color=B388FF&icon_color=B388FF&text_color=D9C9FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true&background=140a24&ring=B388FF&fire=B388FF&currStreakLabel=B388FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=1a2612&title_color=7CFC00&icon_color=7CFC00&text_color=D6FFC2" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=chartreuse-dark&hide_border=true&background=1a2612&ring=7CFC00&fire=7CFC00&currStreakLabel=7CFC00" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=140a24&title_color=B388FF&text_color=D9C9FF" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1a2612&title_color=7CFC00&text_color=D6FFC2" width="60%" />
 </div>
 
 > ⚠️ Ganti `USERNAME_GITHUB` di atas dengan username GitHub asli lo biar statsnya kebaca.
 
 ---
 
-### 🌸 Connect With Me
+### 🐷 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1A0F2E?style=for-the-badge&logo=github&logoColor=E8D9FF)](https://github.com/USERNAME_GITHUB)
-[![Instagram](https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=E8D9FF)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-3B1E5F?style=for-the-badge&logo=whatsapp&logoColor=E8D9FF)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-2A3B1F?style=for-the-badge&logo=github&logoColor=DFFFD6)](https://github.com/USERNAME_GITHUB)
+[![Instagram](https://img.shields.io/badge/Instagram-3B5323?style=for-the-badge&logo=instagram&logoColor=DFFFD6)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-436B34?style=for-the-badge&logo=whatsapp&logoColor=DFFFD6)](#)
 
 </div>
 
@@ -129,9 +129,9 @@ Dark space aesthetic terinspirasi Genshin Impact — animated stat rings, celest
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
 
 <div align="center">
-  <sub>⚡ Eternity favors those who keep committing — thanks for visiting ⚡</sub>
+  <sub>⛏️ Keep mining, keep committing — thanks for visiting ⛏️</sub>
 </div>
