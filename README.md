@@ -13,7 +13,7 @@
       <td valign="middle">
         <h3>✨ Hello & Welcome!</h3>
         <p><i>"Create code to make imagine come true, and build beautiful connections."</i> ⚡</p>
-        <p>I am a <b>Technical Support, Network Engineer, and Programmer</b> I focus on building dynamic websites, system automation (bots), and optimizing network infrastructure.</p>
+        <p>I am a <b>Technical Support, Network Engineer, and Programmer</b> I focus on building dynamic websites, system automation (bots), and optimizing network infrastructure. <b>Genshin Fans</b></p>
       </td>
     </tr>
   </table>
@@ -30,7 +30,7 @@
 *  **Main Job:** Technical Support & Programmer.
 *  **Expertise:** Web Security Audit, Network Engineering, & Automation Bots.
 *  **Community:** Member of **IMPHNEN Developer Community**.
-*  **Interests:** Web Development, Automation, Networking, Bitcoin Trading, and Songwriting.
+*  **Interests:** Web Development, Automation, Networking, Bitcoin Trading, and Song writing.
 *  **Motto:** *"Create imagine come true."*
 
 <br clear="right"/>
@@ -50,7 +50,7 @@
   
   <br>
 
-  <h4>⚙️ Databases, Tools & Platforms</h4>
+  <h4>⚙️ Tools & Platforms</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />&nbsp;
   <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />&nbsp;
