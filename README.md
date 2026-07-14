@@ -38,7 +38,7 @@ motto: "Ship it, break it, mine it, craft it again."
 
 </td>
 <td width="30%" align="center" valign="middle">
-  <img src="./assets/raiden-smile.jpg" width="140" alt="Raiden sticker smile" />
+  <img src="sticker_prof-removebg-preview.png" width="140" alt="Raiden sticker smile" />
 </td>
 </tr>
 </table>
