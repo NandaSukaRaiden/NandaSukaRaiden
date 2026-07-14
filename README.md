@@ -100,7 +100,7 @@ Dark forest/biome aesthetic — animated stat rings, block-style scroll transiti
 ### 📊 XP Bar (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=1a2612&title_color=7CFC00&icon_color=7CFC00&text_color=D6FFC2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NandaSukaRaiden&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=1a2612&title_color=7CFC00&icon_color=7CFC00&text_color=D6FFC2" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=chartreuse-dark&hide_border=true&background=1a2612&ring=7CFC00&fire=7CFC00&currStreakLabel=7CFC00" width="48%" />
 </div>
 
