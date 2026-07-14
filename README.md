@@ -1,22 +1,30 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7CB45&center=true&vCenter=true&width=600&lines=Halo%2C+aku+Nanda+%E2%9C%A8;Full-Stack+Dev+%7C+Network+Engineer;Automation+%26+Bot+Builder+%F0%9F%A4%96;Selalu+ngoding+sambil+ngopi+%E2%98%95" alt="Typing SVG" />
-
-</div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Semarang%20%E2%80%A2%20Indonesia&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=220&section=header&text=Eternity%20in%20Code&fontSize=38&fontColor=E8D9FF&animation=fadeIn&fontAlignY=32&desc=Nanda%20Ahmad%20Yusuf%20%E2%80%A2%20Semarang%2C%20Indonesia&descAlignY=52&descSize=17" />
 </p>
 
 <div align="center">
+  <img src="./assets/raiden-curious.jpg" width="150" alt="Raiden sticker" />
+</div>
 
-> *"Kekuatan sejati bukan datang dari kemenangan, tapi dari perjuangan yang diubah menjadi kode."* 🗡️✨
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Halo%2C+aku+Nanda+%E2%9A%A1;Full-Stack+Dev+%7C+Network+Engineer;Automation+%26+Bot+Builder+%F0%9F%A4%96;Eternity%2C+one+commit+at+a+time" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+> *"Kekekalan bukan berarti tanpa perubahan — ia adalah perubahan yang diabadikan lewat baris kode."* ⚡🟣
 
 </div>
 
 ---
 
 ### 🌌 Tentang Aku
+
+<table>
+<tr>
+<td width="70%" valign="top">
 
 ```yaml
 nama: Nanda Ahmad Yusuf
@@ -28,20 +36,27 @@ minat: Web Dev • Automation • Networking • Bitcoin Trading • Songwriting
 motto: "Ship it, break it, fix it, repeat."
 ```
 
+</td>
+<td width="30%" align="center" valign="middle">
+  <img src="./assets/raiden-smile.jpg" width="140" alt="Raiden sticker smile" />
+</td>
+</tr>
+</table>
+
 ---
 
 ### ⚔️ Tech Arsenal
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=E8D9FF)
+![Node.js](https://img.shields.io/badge/Node.js-2E1A47?style=for-the-badge&logo=nodedotjs&logoColor=B388FF)
+![React](https://img.shields.io/badge/React-1A1030?style=for-the-badge&logo=react&logoColor=B388FF)
+![PHP](https://img.shields.io/badge/PHP-3A1E5D?style=for-the-badge&logo=php&logoColor=E8D9FF)
+![Python](https://img.shields.io/badge/Python-2D1B4E?style=for-the-badge&logo=python&logoColor=E8D9FF)
+![MySQL](https://img.shields.io/badge/MySQL-3E2569?style=for-the-badge&logo=mysql&logoColor=E8D9FF)
+![Express](https://img.shields.io/badge/Express.js-1A0F2E?style=for-the-badge&logo=express&logoColor=B388FF)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-3B1E5F?style=for-the-badge&logo=whatsapp&logoColor=E8D9FF)
 
 </div>
 
@@ -85,12 +100,12 @@ Dark space aesthetic terinspirasi Genshin Impact — animated stat rings, celest
 ### 📊 Stats Ring
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7CB45&icon_color=F7CB45&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=radical&hide_border=true&background=0d1117&ring=F7CB45&fire=F7CB45&currStreakLabel=F7CB45" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=140a24&title_color=B388FF&icon_color=B388FF&text_color=D9C9FF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true&background=140a24&ring=B388FF&fire=B388FF&currStreakLabel=B388FF" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7CB45&text_color=c9d1d9" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=140a24&title_color=B388FF&text_color=D9C9FF" width="60%" />
 </div>
 
 > ⚠️ Ganti `USERNAME_GITHUB` di atas dengan username GitHub asli lo biar statsnya kebaca.
@@ -101,18 +116,22 @@ Dark space aesthetic terinspirasi Genshin Impact — animated stat rings, celest
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME_GITHUB)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-1A0F2E?style=for-the-badge&logo=github&logoColor=E8D9FF)](https://github.com/USERNAME_GITHUB)
+[![Instagram](https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=E8D9FF)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-3B1E5F?style=for-the-badge&logo=whatsapp&logoColor=E8D9FF)](#)
 
 </div>
 
 ---
 
+<div align="center">
+  <img src="./assets/raiden-curious.jpg" width="90" alt="Raiden sticker footer" />
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=100&section=footer" />
 </p>
 
 <div align="center">
-  <sub>🍃 Thanks for visiting — semoga harimu semenyenangkan mabar sama teman satu tim 🍃</sub>
+  <sub>⚡ Eternity favors those who keep committing — thanks for visiting ⚡</sub>
 </div>
