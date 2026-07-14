@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,0284c7,0ea5e9&height=220&section=header&text=Nanda%20Suka%20Raiden&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Developer%20•%20Network%20Engineer&descSize=16&descColor=cbd5e1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4440c0&height=220&section=header&text=Nanda%20Suka%20Raiden&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Developer%20•%20Network%20Engineer&descSize=16&descColor=cbd5e1" />
 </p>
 
 <br>
@@ -86,28 +86,7 @@
   </tr>
 </table>
 
----
 
-### 📊 GitHub XP Stats
-
-<div align="center">
-  <a href="https://github.com/NandaSukaRaiden">
-    <img src="https://github-readme-stats.vercel.app/api?username=NandaSukaRaiden&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1" width="48%" />
-  </a>
-  <a href="https://github.com/NandaSukaRaiden">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandaSukaRaiden&theme=tokyonight&hide_border=true&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=cbd5e1" width="48%" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/NandaSukaRaiden">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaSukaRaiden&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=cbd5e1" width="60%" />
-  </a>
-</div>
-
----
 
 ### 🤝 Hubungi Saya
 
@@ -120,11 +99,7 @@
 
 </div>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,0284c7&height=100&section=footer" width="100%" />
-</p>
 
 <div align="center">
   <sub>⛏️ Keep mining, keep committing — thank you for visiting! ⛏️</sub>
