@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,0284c7,0ea5e9&height=220&section=header&text=Nanda%20Ahmad%20Yusuf&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20•%20Network%20Engineer&descSize=16&descColor=cbd5e1" />
 </p>
 
-<div align="center">
-  <img src="./lightning-removebg-preview.png" width="130" alt="Lightning Bolt" />
-</div>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Nanda!+👋;Full-Stack+Developer;Network+Engineer;WhatsApp+Bot+%26+Automation+Builder" alt="Typing SVG" />
 </h3>
