@@ -11,9 +11,9 @@
         <img src="./sticker_prof-removebg-preview.png" width="180" alt="Profile Sticker" />
       </td>
       <td valign="middle">
-        <h3>✨ Halo & Selamat Datang!</h3>
+        <h3>✨ Hello & Welcome!</h3>
         <p><i>"Code is like electricity — keep it flowing, keep it secure, and build beautiful connections."</i> ⚡</p>
-        <p>Saya adalah seorang <b>Technical Support, Network Engineer, dan Programmer</b> yang berbasis di Semarang, Indonesia. Saya berfokus pada pembuatan web dinamis, otomasi sistem (bot), dan optimasi infrastruktur jaringan.</p>
+        <p>I am a <b>Technical Support, Network Engineer, and Programmer</b> based in Semarang, Indonesia. I focus on building dynamic websites, system automation (bots), and optimizing network infrastructure.</p>
       </td>
     </tr>
   </table>
@@ -21,23 +21,23 @@
 
 ---
 
-### 📂 Tentang Saya (Spawn Info)
+### 📂 About Me (Spawn Info)
 
 <div align="center">
   <img align="right" src="./lightning-removebg-preview.png" width="160" alt="Raiden Sticker" />
 </div>
 
-* 💼 **Pekerjaan Utama:** Technical Support & Programmer di **LPK Kizuna Mitra Indonesia**.
-* 🛡️ **Keahlian:** Web Security Audit, Network Engineering, & Automation Bots.
-* 🎓 **Komunitas:** Bagian dari **IMPHNEN Developer Community**.
-* 🚀 **Minat:** Web Development, Otomasi, Networking, Bitcoin Trading, dan Songwriting.
+* 💼 **Main Job:** Technical Support & Programmer at **LPK Kizuna Mitra Indonesia**.
+* 🛡️ **Expertise:** Web Security Audit, Network Engineering, & Automation Bots.
+* 🎓 **Community:** Member of **IMPHNEN Developer Community**.
+* 🚀 **Interests:** Web Development, Automation, Networking, Bitcoin Trading, and Songwriting.
 * ⛏️ **Motto:** *"Ship it, break it, mine it, craft it again."*
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Arsenal (Warna Asli Platform)
+### 🛠️ Tech Arsenal
 
 <div align="center">
   
@@ -61,34 +61,34 @@
 
 ---
 
-### 🏰 Featured Builds (Proyek Pilihan)
+### 🏰 Featured Builds
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 WhatsApp Bot System</h4>
-      <p>Bot otomatisasi untuk LPK Kizuna Mitra. Menghadirkan fitur auto-reply, admin handoff, simulasi mengetik ala manusia (human-like typing), hingga ekspor laporan otomatis (Word/Excel/PDF).</p>
+      <p>An automation bot for LPK Kizuna Mitra. Features include auto-reply, admin handoff, human-like typing simulation, and automatic report generation (Word/Excel/PDF).</p>
     </td>
     <td width="50%" valign="top">
       <h4>💰 DompetKu</h4>
-      <p>Aplikasi keuangan pribadi multi-user yang dikembangkan dalam dua arsitektur untuk fleksibilitas maksimal: <b>PHP/MySQL</b> dan <b>Node.js/Express/JWT</b>.</p>
+      <p>A multi-user personal finance application developed in two architectures for maximum flexibility: <b>PHP/MySQL</b> and <b>Node.js/Express/JWT</b>.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🛡️ Security Audit (kizuna.id)</h4>
-      <p>Melakukan audit keamanan sistem web secara menyeluruh, termasuk pengamanan dari CSRF, penyembunyian eksposur kontak penting, serta pengaturan header CSP yang ketat.</p>
+      <p>Conducted a thorough web system security audit, including protection against CSRF, hiding critical contact exposure, and implementing strict CSP headers.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🌲 Portfolio Website</h4>
-      <p>Portofolio interaktif bertema dark forest/biome. Dilengkapi efek scroll-triggered, transisi navigasi bergaya block/grid, dan visual status ring beranimasi.</p>
+      <p>An interactive portfolio with a dark forest/biome theme. Features scroll-triggered effects, block/grid-style navigation transitions, and animated ring status visuals.</p>
     </td>
   </tr>
 </table>
 
 
 
-### 🤝 Hubungi Saya
+### 🤝 Contact Me
 
 <div align="center">
 
