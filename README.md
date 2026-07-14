@@ -105,7 +105,7 @@ Dark forest/biome aesthetic — animated stat rings, block-style scroll transiti
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1a2612&title_color=7CFC00&text_color=D6FFC2" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaSukaRaiden&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1a2612&title_color=7CFC00&text_color=D6FFC2" width="60" />
 </div>
 
 > ⚠️ Ganti `USERNAME_GITHUB` di atas dengan username GitHub asli lo biar statsnya kebaca.
