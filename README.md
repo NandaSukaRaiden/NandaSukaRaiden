@@ -11,8 +11,7 @@
         <img src="./sticker_prof-removebg-preview.png" width="180" alt="Profile Sticker" />
       </td>
       <td valign="middle">
-        <h3>✨ Hello & Welcome </h3>
-        <p><i>"Create code to make imagine come true, Write code. Make the world easier."</i> ⚡</p>
+        <h3>✨ Hello, I am Nanda  </h3>
         <p>I am a <b>Technical Support, Network Engineer, and Programmer</b> I focus on building dynamic websites, system automation (bots), and optimizing network infrastructure. <b>Genshin Fans</b></p>
       </td>
     </tr>
